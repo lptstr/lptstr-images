@@ -1,0 +1,4 @@
+AGPL-v3.0 (c) Kied Llaentenn
+For usage guidlines, permissions, and conditions, the the README.
+
+You can also view this file on http://kiedtl.surge.sh/~/on-keys-and-crypto/.
