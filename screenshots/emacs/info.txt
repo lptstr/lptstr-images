@@ -1,0 +1,6 @@
+AGPL-v3.0 (c) 2019 Kied Llaentenn
+Please see the README for usage information.
+
+This file applies to:
+- "lptstr-images\screenshots\emacs\emacs-main_c.jpg"
+- "lptstr-images\screenshots\emacs\emacs-main_c_dark.jpg"
