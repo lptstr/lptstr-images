@@ -1,6 +1,10 @@
 <svg width="228.00000000000003" height="35.059" xmlns="http://www.w3.org/2000/svg">
  <title>build-with-wordpad</title>
- <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+ <defs>
+  <style type="text/css">
+    @import url('https://fonts.googleapis.com/css?family=Roboto');
+ </style>
+</defs>
 
  <g>
   <title>background</title>
