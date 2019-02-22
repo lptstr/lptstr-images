@@ -2,7 +2,8 @@
  <title>build-with-wordpad</title>
  <defs>
   <style type="text/css">
-    @import url('https://fonts.googleapis.com/css?family=Roboto');
+    @import url('https://fonts.googleapis.com/css?family=Roboto:500');
+    @import url('https://fonts.googleapis.com/css?family=Montserrat:800');
  </style>
 </defs>
 
@@ -14,7 +15,7 @@
   <title>Layer 1</title>
   <path id="svg_1" d="m34.667,0l193.333,0l0,35l-193.333,0l0,-35z" fill="#5593c8"/>
   <path id="svg_2" d="m0,0.029l123.625,0l0,35l-123.625,0l0,-35z" fill="#a7bfc1"/>
-  <text style="cursor: move;" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Roboto medium, sans-serif" font-size="16" id="svg_5" y="24.221262" x="8.244011" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">BUILT WITH</text>
-  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" id="svg_6" y="23.443645" x="138.494948" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">WORDPAD</text>
+  <text style="cursor: move;" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="Roboto, sans-serif" font-size="16" id="svg_5" y="24.221262" x="8.244011" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">BUILT WITH</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Montserrat, sans-serif" font-size="18" id="svg_6" y="23.443645" x="138.494948" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">WORDPAD</text>
  </g>
 </svg>
