@@ -1,0 +1,2 @@
+MIT (c) 2019 Kied Llaentenn
+Please see the README for usage information.
