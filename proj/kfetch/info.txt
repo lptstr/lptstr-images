@@ -1,0 +1,2 @@
+AGPL-v3.0 (c) Kied Llaentenn
+For usage guidlines, permissions, and conditions, see the README.
