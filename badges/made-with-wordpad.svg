@@ -1,15 +1,1 @@
-<svg width="228" height="35.059" xmlns="http://www.w3.org/2000/svg">
- <title>build-with-wordpad</title>
-
- <g>
-  <title>background</title>
-  <rect x="-1" y="-1" width="230" height="37.059" id="canvas_background" fill="none"/>
- </g>
- <g>
-  <title>Layer 1</title>
-  <path fill="#5593c8" d="m34.667,0l193.333,0l0,35l-193.333,0l0,-35z" id="svg_1"/>
-  <path stroke="null" fill="#a7bfc1" d="m0,0.029l115.461994,0l0,35l-115.461994,0l0,-35z" id="svg_2"/>
-  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="14.07473" y="24.221262" id="svg_5" font-size="16" font-family="Roboto, sans-serif" text-anchor="start" xml:space="preserve" font-weight="normal">BUILT WITH</text>
-  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" x="126.05608" y="24.804146" id="svg_6" font-size="18" font-family="Montserrat, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold">WORDPAD</text>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="35.059"><title>build-with-wordpad</title><g><title>background</title><rect id="canvas_background" width="230" height="37.059" x="-1" y="-1" fill="none"/></g><g><title>Layer 1</title><path id="svg_1" fill="#5593c8" d="m34.667,0l193.333,0l0,35l-193.333,0l0,-35z"/><path id="svg_2" fill="#a7bfc1" stroke="null" d="m0,0.029l115.461994,0l0,35l-115.461994,0l0,-35z"/><text id="svg_5" x="14.075" y="24.221" fill="#fff" stroke="null" stroke-opacity="null" stroke-width="0" font-family="Roboto, sans-serif" font-size="16" font-weight="normal" text-anchor="start" xml:space="preserve">BUILT WITH</text><text id="svg_6" x="126.056" y="24.804" fill="#fff" stroke="null" stroke-opacity="null" stroke-width="0" font-family="Montserrat, sans-serif" font-size="18" font-weight="bold" text-anchor="start" xml:space="preserve">WORDPAD</text></g></svg>
